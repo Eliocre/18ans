@@ -318,7 +318,7 @@ __meta__ = {
 position = Vector2( -1.68179, -9.88053 )
 texture = ExtResource( 2 )
 hframes = 20
-frame = 15
+frame = 18
 
 [node name="AnimationPeb" type="AnimationPlayer" parent="Peb"]
 anims/IdleDown = SubResource( 1 )
@@ -342,7 +342,7 @@ parameters/Run/blend_position = Vector2( 0, 0 )
 position = Vector2( -12.6204, -16.377 )
 texture = ExtResource( 3 )
 hframes = 16
-frame = 14
+frame = 13
 
 [node name="AnimationAzeroth" type="AnimationPlayer" parent="Azeroth"]
 anims/Down = SubResource( 23 )
