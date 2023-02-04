@@ -318,7 +318,7 @@ __meta__ = {
 position = Vector2( -1.68179, -9.88053 )
 texture = ExtResource( 2 )
 hframes = 20
-frame = 19
+frame = 17
 
 [node name="AnimationPeb" type="AnimationPlayer" parent="Peb"]
 anims/IdleDown = SubResource( 1 )

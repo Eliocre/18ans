@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Sprite-0001-Sheet.png-3f1761c0571fb4336c1c233fe13b9a06.stex"
+path="res://.import/ExtaMan-Sheet.png-07739c727f18b2f458f3f1248949bbf1.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Entity/player/Sprite-0001-Sheet.png"
-dest_files=[ "res://.import/Sprite-0001-Sheet.png-3f1761c0571fb4336c1c233fe13b9a06.stex" ]
+source_file="res://Entity/Entity/ExtaMan-Sheet.png"
+dest_files=[ "res://.import/ExtaMan-Sheet.png-07739c727f18b2f458f3f1248949bbf1.stex" ]
 
 [params]
 
@@ -28,6 +28,7 @@ process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
+process/normal_map_invert_y=false
 stream=false
 size_limit=0
 detect_3d=false
